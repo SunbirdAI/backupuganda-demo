@@ -13,6 +13,8 @@ This Streamlit application is designed for Backup Uganda to translate podcast tr
 ### Installation
 
 **Requirements**
+
+```
 Python 3.7 or later
 Streamlit
 Transformers
@@ -20,7 +22,7 @@ Torch
 SpeechBrain
 Torchaudio
 NLTK
-
+```
 ### Steps
 
 Clone the repository or download the source code.
